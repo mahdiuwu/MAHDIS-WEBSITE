@@ -1,0 +1,17 @@
+.first{
+    text-align: center;
+    color:chartreuse;
+    font-size: 36px;
+}
+.second{
+    text-align: center;
+    color:chartreuse;
+    size: 40PX;
+}
+body{
+    background-color: black;
+}
+H2{
+    color: chartreuse;
+    text-align: center;
+}
